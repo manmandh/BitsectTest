@@ -2,8 +2,8 @@ namespace BisectTest
 {
     public class Book
     {
-        public string? Author { get; set; }
-        public string? BookName { get; set; }
+        public string Author { get; set; }
+        public string BookName { get; set; }
         public double Price { get; set; }
         public double DiscountPrice { get; set; }
         internal double WholeSalePrice { get; set; }
