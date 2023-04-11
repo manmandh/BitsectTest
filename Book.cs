@@ -20,6 +20,6 @@ namespace BisectTest
         {
             DiscontinuedPrice = DiscontinuedPrice * 0.8;
         }
-
+    
     }
 }
